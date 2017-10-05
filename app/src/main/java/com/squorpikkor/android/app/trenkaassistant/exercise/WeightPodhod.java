@@ -5,6 +5,5 @@ package com.squorpikkor.android.app.trenkaassistant.exercise;
  *
  */
 
-interface Podhod {
-
+public class WeightPodhod implements Podhod{
 }

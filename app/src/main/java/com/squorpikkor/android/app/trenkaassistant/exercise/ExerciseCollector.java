@@ -26,5 +26,5 @@ public class ExerciseCollector {
         this.exerciseNameList.addAll(exerciseNameList);
     }
 
-    private ArrayList<ArrayList<Day>> mainArray;
+//    private ArrayList<ArrayList<CurrentExerciseDay>> mainArray;
 }

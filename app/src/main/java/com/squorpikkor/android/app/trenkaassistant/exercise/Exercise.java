@@ -16,7 +16,8 @@ class Exercise {
 
     private double bestOne;
 
-    ArrayList<Day> trenkaDaysList = new ArrayList<>();
+    ArrayList<CurrentExerciseDay> currentExerciseDaysList = new ArrayList<>();
+
 
 
 
